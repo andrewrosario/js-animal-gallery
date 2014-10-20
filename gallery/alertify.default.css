@@ -3,10 +3,10 @@
  */
 .alertify,
 .alertify-log {
-	font-family: sans-serif;
+	font-family: cursive;
 }
 .alertify {
-	background: #FFF;
+	background: red;
 	border: 10px solid #333; /* browsers that don't support rgba */
 	border: 10px solid rgba(0,0,0,.7);
 	border-radius: 8px;
@@ -22,7 +22,7 @@
 	}
 	.alertify-button {
 		border-radius: 4px;
-		color: #FFF;
+		color: yellow;
 		font-weight: bold;
 		padding: 6px 15px;
 		text-decoration: none;
@@ -64,11 +64,11 @@
 		}
 
 .alertify-log {
-	background: #1F1F1F;
+	background: blue;
 	background: rgba(0,0,0,.9);
 	padding: 15px;
 	border-radius: 4px;
-	color: #FFF;
+	color: green;
 	text-shadow: -1px -1px 0 rgba(0,0,0,.5);
 }
 	.alertify-log-error {
